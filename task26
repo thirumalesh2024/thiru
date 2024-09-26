@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pre>
+<strong>crispy chicken+crunchy chicken taco .₹ 218</strong>
+        </pre>
+        <h3>customise as per your taste</h3>
+        <hr>
+        <fieldset>
+            <legend>
+                <strong>Add ons</strong>
+                </legend>
+               <pre> <label for= "checkbox1">
+                Fries(Reg)+coke(save Rs 56)                                        +₹119<input type="checkbox"></label> </pre> 
+               <Pre><label for = "checkbox1">
+                Fries(M)+ Coke(save Rs 60)                                       +₹149<input type= "checkbox"></label>  </Pre>
+               <pre><label for= "checkbox1">
+                Fries(M) + chocoloate thickshake (save Rs 109)                   +₹189<input type = "checkbox"></label> </pre>
+               <pre>
+                <label for = "checkbox1">
+                 Fries(large)+cokes(Save Rs 90 )                                  +₹219<input type = "checkbox"></label>
+               </pre>
+            </fieldset>
+            <fieldset>
+            <legend>
+                <storng>choose your sides & desert(0/4)</storng>
+                </legend>
+                <pre>
+                    <label for= "checkbox1">
+                veggieb strips (5pcs)                                             +₹59<input type= "checkbox"></label>
+                </pre>
+                <pre>
+                    <label for= "checkbox1">
+                Med Fries                                                        +₹119<input type= "checkbox"></label>
+                </pre>
+                <pre>
+                    <label for= "checkbox1">
+                peri peri spice mix                                              +₹28<input type= "checkbox"></label>
+                </pre>
+                <pre>
+                    <label for=  "checkbox1">
+                4 pcs crunchy chicken Nuggets                                     +₹95<input type= "checkbox"></label>
+                </pre>
+        </fieldset>
+        
+            <del>
+                <small>218.00</small>
+            </del>
+            <strong>139.0</strong>
+            <button>
+            <a href="./submit.html">Add Item to cart</a>
+            </button>
+        
+    
+</body>
+</html>
